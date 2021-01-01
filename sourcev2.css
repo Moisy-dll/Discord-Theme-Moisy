@@ -1,0 +1,144 @@
+.accountDetails-3k9g4n::after {
+  content: "Moisy v5.2.5";
+  font-size: 10px;
+  text-align: center;
+  font-weight: 700;
+  bottom: -1px;
+  opacity: 0.3;
+  position: sticky;
+  color: #fff;
+}
+
+#bd-settings-sidebar .ui-tab-bar-item {
+  padding-left: 50px !important;
+}
+
+[class*="theme-"] #bd-settings-sidebar .ui-tab-bar-item.selected {
+  background-color: var(--main-color);
+}
+
+[class*="theme-"] #bd-settings-sidebar .ui-tab-bar-item:hover {
+  background-color: var(--hover-color);
+}
+
+[layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"] {
+  padding-left: 50px !important;
+}
+
+
+[layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(2)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/person.svg) !important;
+}
+
+[layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(3)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/security.svg) !important;
+}
+
+[layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(4)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/apps.svg) !important;
+}
+
+[layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(5)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/link.svg) !important;
+}
+
+[layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(6)::after {
+  background: url(https://cdn.rawgit.com/OmgDani/ClearVisionFixes/master/Icons/Credit_card.svg) !important;
+}
+
+[layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(8)::after {
+  background: url(https://discordapp.com/assets/df0e29b16d71bdad333880b2488075be.svg) !important;
+}
+
+[layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(9)::after {
+  background-image: url(https://discordapp.com/assets/6c73f47daf179ffade99f501bfc5101b.svg) !important;
+  background-size: cover;
+}
+
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(13)::after {
+  background: url(https://cdn.rawgit.com/OmgDani/ClearVisionFixes/master/Icons/open_in_new.svg) !important;
+}
+
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(21)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/desktop_windows.svg) !important;
+}
+
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(26)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/exit.svg) !important;
+}
+
+.platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(24)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/exit.svg) !important;
+}
+
+.platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(21)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/history.svg) !important;
+}
+
+[layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(12)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic.svg) !important;
+}
+
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(14)::after,
+.platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(13)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/notifications.svg) !important;
+}
+
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(15)::after,
+.platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(14)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/keyboard.svg) !important;
+}
+
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(16)::after,
+.platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(15)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/games.svg) !important;
+}
+
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(17)::after,
+.platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(16)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/chat.svg) !important;
+}
+
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(18)::after,
+.platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(17)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/camera.svg) !important;
+}
+
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(19)::after,
+.platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(18)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/videocam.svg) !important;
+}
+
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(20)::after,
+.platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(19)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/language.svg) !important;
+}
+
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(23)::after,
+.platform-osx [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(22)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/history.svg) !important;
+}
+
+#bd-settings-sidebar .ui-tab-bar-item:nth-child(3)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/betterdiscord.svg) !important;
+}
+
+#bd-settings-sidebar .ui-tab-bar-item:nth-child(4)::after {
+  background: url(https://cdn.rawgit.com/OmgDani/ClearVisionFixes/6c6aaf1a/Icons/bandage.svg) !important;
+}
+
+#bd-settings-sidebar .ui-tab-bar-item:nth-child(5)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/emote.svg) !important;
+}
+
+#bd-settings-sidebar .ui-tab-bar-item:nth-child(6)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/code.svg) !important;
+}
+
+#bd-settings-sidebar .ui-tab-bar-item:nth-child(7)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/puzzle.svg) !important;
+}
+
+#bd-settings-sidebar .ui-tab-bar-item:nth-child(8)::after {
+  background: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/palette.svg) !important;
+}
